@@ -29,8 +29,11 @@
 ![A11](https://github.com/Iulia1511/container03/assets/159126852/33818ea8-eaa0-4bc2-a652-bfa83b0a8007)
 * cd /etc/apache2/sites-enabled/ - переходит в директорию, где хранятся файлы конфигурации виртуальных хостов веб-сервера Apache.
 * cat 000-default.conft - выводит содержимое файла 000-default.conft на экран. 
-## Просмотрите список контейнеров: docker ps -a
+### Просмотрите список контейнеров: docker ps -a
 ![A12](https://github.com/Iulia1511/container03/assets/159126852/1dab768c-e130-4919-964d-6b852aa02aff)
+## Вывод
+* Я вспомнила основные команды ОС Debian/Ubuntu. Также познакомилась с Docker и его основными командами.
+
 
 
 
